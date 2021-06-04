@@ -7,10 +7,13 @@
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC_lQIwKUfXKLHTU-CFHBhng)](https://www.youtube.com/channel/UC_lQIwKUfXKLHTU-CFHBhng)
 
 ### About me 💻 - Working on it.
-[Behance](https://www.behance.net/sdexpressbrasil/appreciated).
+-[Behance](https://www.behance.net/sdexpressbrasil/appreciated) 
+- [Savee](https://savee.it/romulo_filipe_rodrigues_dos_reis/)  👨🏼‍🏫 - Minhas Inspirações
+- [Blog](https://sdexpresscriativo.blogspot.com/p/album.html)  ✍🏼- Estudo
 
-contato.sdexpressbrasil@gmail.com
 
-Responsável: Romulo Filipe Rodrigues dos Reis.
 
-SDexpress Brasil™
+-contato.sdexpressbrasil@gmail.com
+-Responsável: Rômulo Filipe Rodrigues dos Reis.
+-SDexpress Brasil™
+
