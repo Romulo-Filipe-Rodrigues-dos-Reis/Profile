@@ -7,11 +7,11 @@
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC_lQIwKUfXKLHTU-CFHBhng)](https://www.youtube.com/channel/UC_lQIwKUfXKLHTU-CFHBhng)
 
 ### About all production 💻 
-- [Behance](https://www.behance.net/sdexpressbrasil/appreciated) - 
-- [Savee](https://savee.it/romulo_filipe_rodrigues_dos_reis/)  👨🏼‍🏫 - Minhas Inspirações
-- [Blog](https://sdexpresscriativo.blogspot.com/p/album.html)  ✍🏼- Estudo
+- [Behance](https://www.behance.net/sdexpressbrasil/appreciated) - Parque de diversão (Em construção) 
+- [Savee](https://savee.it/romulo_filipe_rodrigues_dos_reis/)  👨🏼‍🏫 - Inspirações
+- [Blog](https://sdexpresscriativo.blogspot.com/p/album.html)  ✍🏼- Meu blog (em construção)
 
-- contato.sdexpressbrasil@gmail.com
+ contato.sdexpressbrasil@gmail.com
 Responsável: Rômulo Filipe Rodrigues dos Reis. 
 
 SDexpress Brasil™
