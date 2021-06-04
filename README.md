@@ -11,7 +11,6 @@
 - [Savee](https://savee.it/romulo_filipe_rodrigues_dos_reis/)  👨🏼‍🏫 - Inspirações
 - [Blog](https://sdexpresscriativo.blogspot.com/p/album.html)  ✍🏼- Meu blog (em construção)
 
- contato.sdexpressbrasil@gmail.com
-Responsável: Rômulo Filipe Rodrigues dos Reis. 
-
 SDexpress Brasil™
+
+ contato.sdexpressbrasil@gmail.com
