@@ -1,4 +1,4 @@
-# Hi, I'm Rômulo!![image](https://user-images.githubusercontent.com/73828375/120840379-8e3eef00-c540-11eb-8178-bcd27c6f5dd4.png)
+# Hi, I'm Rômulo!![image](https://user-images.githubusercontent.com/73828375/120840379-8e3eef00-c540-11eb-8178-bcd27c6f5dd4.gif)
 
 
 💻 Studying Front End Developer
