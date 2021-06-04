@@ -14,5 +14,6 @@
 
 
 - contato.sdexpressbrasil@gmail.com
-- Responsável: Rômulo Filipe Rodrigues dos Reis.
-- SDexpress Brasil™
+- Responsável: Rômulo Filipe Rodrigues dos Reis. 
+- 
+SDexpress Brasil™
