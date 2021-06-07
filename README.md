@@ -6,7 +6,7 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Romulo-Filipe-Rodrigues-dos-Reis)](https://github.com/Romulo-Filipe-Rodrigues-dos-Reis)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sdexpressbrasil/)](https://www.linkedin.com/in/sdexpressbrasil/)
-[![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC_lQIwKUfXKLHTU-CFHBhng)](https://www.youtube.com/channel/UC_lQIwKUfXKLHTU-CFHBhng)
+[![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC_lQIwKUfXKLHTU-CFHBhng/about)](https://www.youtube.com/channel/UC_lQIwKUfXKLHTU-CFHBhng/about)
 
 ### About all production 💻 
 - [Behance](https://www.behance.net/sdexpressbrasil/appreciated) - Parque de diversão (Em construção) 
