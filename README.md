@@ -9,9 +9,10 @@
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC_lQIwKUfXKLHTU-CFHBhng/about)](https://www.youtube.com/channel/UC_lQIwKUfXKLHTU-CFHBhng/about)
 
 ### About all production 💻 
-- [Behance](https://www.behance.net/sdexpressbrasil/appreciated) - Parque de diversão (Em construção) 
+- #### *Portifolio - em construção*
+- [Behance](https://www.behance.net/sdexpressbrasil/appreciated) - Playground
+- [Blog](https://sdexpresscriativo.blogspot.com/p/album.html)  ✍🏼- Meu blog 
 - [Savee](https://savee.it/romulo_filipe_rodrigues_dos_reis/)  👨🏼‍🏫 - Inspirações
-- [Blog](https://sdexpresscriativo.blogspot.com/p/album.html)  ✍🏼- Meu blog (em construção)
 
 SDexpress Brasil™
 
