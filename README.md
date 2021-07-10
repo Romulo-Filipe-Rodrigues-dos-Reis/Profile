@@ -18,3 +18,10 @@
 SDexpress Brasil™
 
  contato.sdexpressbrasil@gmail.com
+ 
+ <p align="center">
+  <img height="130em" src="https://github-readme-streak-stats.herokuapp.com/?user=Romulo-Filipe-Rodrigues-dos-Reis&theme=dracula" />
+  <a href="https://github.com/Romulo-Filipe-Rodrigues-dos-Reis">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Romulo-Filipe-Rodrigues-dos-Reis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romulo-Filipe-Rodrigues-dos-Reis&layout=compact&langs_count=16&theme=dracula"/> 
+</p> 
