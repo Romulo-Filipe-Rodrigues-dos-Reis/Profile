@@ -10,10 +10,10 @@
  <img src="https://meu-portfolio-2021-2022.netlify.app/src/assets/Play.png" width="150">
 
 **SDexpress Brasil™** <br/>
- ### 💻 Front End Developer <br/> 
 
 <details>
-  <summary> 💡 Habilidades </summary>
+<summary> 💻 Front End Developer </summary><br/> 
+
 <p align="center">
   <img height="130em" src="https://github-readme-streak-stats.herokuapp.com/?user=Romulo-Filipe-Rodrigues-dos-Reis&theme=dracula" />
   <a href="https://github.com/Romulo-Filipe-Rodrigues-dos-Reis">
