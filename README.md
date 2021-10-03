@@ -1,5 +1,5 @@
 # 💻 Hi! welcome, everyone.
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Romulo-Filipe-Rodrigues-dos-Reis&label=Profile%20views&color=0e75b6&style=flat" alt="Romulo-Filipe-Rodrigues-dos-Reis" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Romulo-Filipe-Rodrigues-dos-Reis&label=Profile%20views&color=0e75b6&style=flat" alt="Romulo-Filipe-Rodrigues-dos-Reis" /> </p> [![Portfolio](https://img.shields.io/badge/-Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139=https://meu-portfolio-2021-2022.netlify.app/)](https://meu-portfolio-2021-2022.netlify.app/)
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139=https://meu-portfolio-2021-2022.netlify.app/)](https://meu-portfolio-2021-2022.netlify.app/)
 [![Behance](https://img.shields.io/badge/-Behance-1769ff?style=flat-square&logo=behance&logoColor=white=https://www.behance.net/sdexpressbrasil/appreciated)](https://www.behance.net/sdexpressbrasil/appreciated)
