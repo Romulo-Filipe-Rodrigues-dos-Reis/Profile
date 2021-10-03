@@ -1,8 +1,7 @@
 # 💻 Hi! welcome, everyone. [![Portfolio](https://img.shields.io/badge/-Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139=https://meu-portfolio-2021-2022.netlify.app/)](https://meu-portfolio-2021-2022.netlify.app/)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Romulo-Filipe-Rodrigues-dos-Reis&label=Profile%20views&color=0e75b6&style=flat" alt="Romulo-Filipe-Rodrigues-dos-Reis" /> </p> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Romulo-Filipe-Rodrigues-dos-Reis= width="150")](https://github.com/Romulo-Filipe-Rodrigues-dos-Reis) 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=Romulo-Filipe-Rodrigues-dos-Reis)](https://github.com/Romulo-Filipe-Rodrigues-dos-Reis) 
 
 [![Behance](https://img.shields.io/badge/-Behance-1769ff?style=flat-square&logo=behance&logoColor=white=https://www.behance.net/sdexpressbrasil/appreciated)](https://www.behance.net/sdexpressbrasil/appreciated)
 [![Blogger](https://img.shields.io/badge/-Blogger-FF5722?style=flat-square&logo=blogger&logoColor=white=https://sdexpresscriativo.blogspot.com/p/album.html)](https://sdexpresscriativo.blogspot.com/p/album.html)
