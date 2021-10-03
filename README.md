@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Romulo-Filipe-Rodrigues-dos-Reis&label=Profile%20views&color=0e75b6&style=flat" alt="Romulo-Filipe-Rodrigues-dos-Reis" /> </p>
 
 
-💻 Studying Front End Developer
+💻 Front End Developer
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sdexpressbrasil/)](https://www.linkedin.com/in/sdexpressbrasil/)
