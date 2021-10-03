@@ -1,9 +1,5 @@
-# Hi, I'm Rômulo!
+# 💻 Hi! welcome, everyone.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Romulo-Filipe-Rodrigues-dos-Reis&label=Profile%20views&color=0e75b6&style=flat" alt="Romulo-Filipe-Rodrigues-dos-Reis" /> </p>
-
-
-💻 Front End Developer
-
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sdexpressbrasil/)](https://www.linkedin.com/in/sdexpressbrasil/)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Romulo-Filipe-Rodrigues-dos-Reis)](https://github.com/Romulo-Filipe-Rodrigues-dos-Reis)
@@ -11,12 +7,12 @@
 
 ### About all production 💻 
 ### [*Portfólio*](https://meu-portfolio-2021-2022.netlify.app/) 
-- [Behance](https://www.behance.net/sdexpressbrasil/appreciated) - jobs
-- [Blog](https://sdexpresscriativo.blogspot.com/p/album.html)  ✍🏼- blog 
-- [Savee](https://savee.it/romulo_filipe_rodrigues_dos_reis/)  👨🏼‍🏫 - Inspirações
+![Behance](https://img.shields.io/badge/Behance-1769ff?style=flat-square&logo=behance&logoColor=white=https://www.behance.net/sdexpressbrasil/appreciated) 
+- [Blog](https://sdexpresscriativo.blogspot.com/p/album.html)
+- [Savee](https://savee.it/romulo_filipe_rodrigues_dos_reis/) 
 
 SDexpress Brasil™
-
+💻 Front End Developer
  contato.sdexpressbrasil@gmail.com
  
  <p align="center">
