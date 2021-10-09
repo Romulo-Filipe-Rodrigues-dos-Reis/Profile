@@ -7,7 +7,7 @@
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC_lQIwKUfXKLHTU-CFHBhng/about)](https://www.youtube.com/channel/UC_lQIwKUfXKLHTU-CFHBhng/about)
 
 ##
-[![img src](https://meu-portfolio-2021-2022.netlify.app/src/assets/Play.png?style=style&color&link=https://meu-portfolio-2021-2022.netlify.app)](https://meu-portfolio-2021-2022.netlify.app)
+[![img src](https://meu-portfolio-2021-2022.netlify.app/src/assets/Play.png?&link=https://meu-portfolio-2021-2022.netlify.app)](https://meu-portfolio-2021-2022.netlify.app) &width="150" 
 
 **SDexpress Brasil™** <br/>
 
